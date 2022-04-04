@@ -1,3 +1,13 @@
+/*
+*
+8 Must Know JavaScript Array Methods
+https://www.youtube.com/watch?v=R8rmfD9Y5-c
+*
+*
+*/
+
+
+
 const items = [
     { name: 'Bike', price: 100 },
     { name: 'TV', price: 1000 },
