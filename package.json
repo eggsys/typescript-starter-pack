@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
-    "array" : "ts-node-dev --respawn --transpile-only src/array-method/array-demo.ts"
+    "array" : "ts-node-dev --respawn --transpile-only src/array-method/array-demo.ts",
+    "object" : "ts-node-dev --respawn --transpile-only src/object-method/object-demo.ts"
+
   },
   "keywords": [],
   "author": "",
